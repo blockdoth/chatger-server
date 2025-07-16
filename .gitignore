@@ -1,7 +1,6 @@
 .idea
 .envrc
 .direnv
-/target
-/result
-
+_build
+rebar3.crashdump
 

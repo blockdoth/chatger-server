@@ -1,0 +1,10 @@
+{application, main,
+ [
+  {description, "Main application"},
+  {vsn, "0.1.0"},
+  {modules, [main]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {mod, {main, []}},
+  {env, []}
+ ]}.
